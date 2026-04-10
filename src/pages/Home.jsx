@@ -35,7 +35,7 @@ const Home = () => {
                 <ShieldCheck size={32} />
               </div>
               <h3 className="text-2xl font-bold mb-4">Full Transparency</h3>
-              <p className="text-slate-600">95% of all donations go directly to program services. We provide detailed impact reports for every project.</p>
+              <p className="text-slate-600">90% of all donations go directly to program services. We provide detailed impact reports for every project.</p>
             </div>
           </div>
         </div>
